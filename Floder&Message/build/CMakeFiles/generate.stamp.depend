@@ -1,0 +1,20 @@
+# CMake generation dependency list for this directory.
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/CMakeCXXInformation.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/CMakeRCInformation.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/Compiler/MSVC-CXX.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/Compiler/MSVC.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/Platform/Windows-MSVC.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/Platform/Windows.cmake
+D:/CMake/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake
+E:/lab/c++/Floder&Message/CMakeLists.txt
+E:/lab/c++/Floder&Message/build/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake
+E:/lab/c++/Floder&Message/build/CMakeFiles/3.25.1/CMakeRCCompiler.cmake
+E:/lab/c++/Floder&Message/build/CMakeFiles/3.25.1/CMakeSystem.cmake

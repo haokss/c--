@@ -1,0 +1,4 @@
+E:/lab/c++/Floder&Message/build/CMakeFiles/message.dir
+E:/lab/c++/Floder&Message/build/CMakeFiles/main_cmake.dir
+E:/lab/c++/Floder&Message/build/CMakeFiles/ALL_BUILD.dir
+E:/lab/c++/Floder&Message/build/CMakeFiles/ZERO_CHECK.dir

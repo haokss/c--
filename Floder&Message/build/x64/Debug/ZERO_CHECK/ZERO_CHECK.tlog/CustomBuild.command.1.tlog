@@ -1,0 +1,10 @@
+^E:\LAB\C++\FLODER&MESSAGE\BUILD\CMAKEFILES\BEAC86227F00CE8D5B81BA5A8FE07616\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\cmake-3.25.1-windows-x86_64\cmake-3.25.1-windows-x86_64\bin\cmake.exe "-SE:/lab/c++/Floder&Message" "-BE:/lab/c++/Floder&Message/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/lab/c++/Floder&Message/build/folder.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

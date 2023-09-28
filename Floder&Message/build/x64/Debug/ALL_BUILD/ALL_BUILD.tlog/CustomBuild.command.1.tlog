@@ -1,0 +1,10 @@
+^E:\LAB\C++\FLODER&MESSAGE\CMAKELISTS.TXT
+setlocal
+D:\CMake\cmake-3.25.1-windows-x86_64\cmake-3.25.1-windows-x86_64\bin\cmake.exe "-SE:/lab/c++/Floder&Message" "-BE:/lab/c++/Floder&Message/build" --check-stamp-file "E:/lab/c++/Floder&Message/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
